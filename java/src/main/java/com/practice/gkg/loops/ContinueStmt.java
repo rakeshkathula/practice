@@ -7,8 +7,7 @@ public class ContinueStmt {
             // iteration
             if (i == 2) {
                 continue;
-            }
-            
+            }          
             System.out.println(i);
         }
     }
