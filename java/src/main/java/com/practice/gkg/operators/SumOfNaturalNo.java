@@ -1,4 +1,4 @@
-package com.practice.gkg;
+package com.practice.gkg.operators;
 
 import java.util.Scanner;
 
