@@ -1,4 +1,4 @@
-package com.practice;
+package com.practice.gkg.loops;
 
 public class SwitchStatement {
 
